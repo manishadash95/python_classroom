@@ -13,3 +13,10 @@ if total >= 1000:
 else:
     print("No discount applied")
     print("total amount: total")
+
+
+
+
+
+
+
